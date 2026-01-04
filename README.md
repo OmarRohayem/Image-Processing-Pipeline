@@ -51,4 +51,4 @@ The pipeline is divided into three distinct tasks:
 The script generates 2x2 comparison grids for every stage of processing to allow for immediate visual verification of the algorithms applied.
 
 ---
-*Created by [Your Name]*
+*Created by [Omar Rohayem].
