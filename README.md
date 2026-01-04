@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarRohayem/Image-Processing-Pipeline/blob/main/Image_Processing_Pipeline.ipynb)
 
 ## 📌 Overview
 This project implements a complete image processing pipeline using Python and OpenCV. The solver accepts an input image and performs a sequence of enhancement, analysis, and feature extraction tasks. 
