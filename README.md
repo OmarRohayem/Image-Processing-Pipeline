@@ -1,7 +1,7 @@
 # Image Processing & Analysis Pipeline
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)](https://opencv.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarRohayem/Image-Processing-Pipeline/blob/main/Image_Processing_Pipeline.ipynb)
 
 ## 📌 Overview
